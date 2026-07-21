@@ -3,7 +3,7 @@
 ### 🚀 About Me
 Computer Engineering student at **USP (University of São Paulo)**. Passionate about **Robotics**, **Artificial Intelligence**, and **Embedded Systems**.
 
-* 🌐 **Portfolio:** [Portfolio](https://your-portfolio.com) 
+* 🌐 **Portfolio:** [Portfolio](https://jonn16.github.io/Portifolio/) 
 * 📫 **Contact:** [joaoeduardofreitas9@gmail.com](mailto:joaoeduardofreitas9@gmail.com)
 
 ---
