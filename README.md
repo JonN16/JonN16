@@ -3,8 +3,8 @@
 ### 🚀 About Me
 Computer Engineering student at **USP (University of São Paulo)**. Passionate about **Robotics**, **Artificial Intelligence**, and **Embedded Systems**.
 
-* 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com) <!-- Substitua pelo seu link ou LinkedIn -->
-* 📫 **Contact:** [your-email@usp.br](mailto:your-email@usp.br)
+* 🌐 **Portfolio:** [Portfolio](https://your-portfolio.com) 
+* 📫 **Contact:** [Email](mailto:joaoeduardofreitas9@gmail.com)
 
 ---
 
