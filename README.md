@@ -21,11 +21,3 @@ Computer Engineering student at **USP (University of São Paulo)**. Passionate a
 | <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" /></a> | <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a> | <a href="https://www.canva.com"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="48" alt="Canva" /></a> |
 | :---: | :---: | :---: |
 | **NodeJS** | **React** | **Canva** |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonN16&theme=dark" alt="GitHub Streak Stats" />
-</p>
