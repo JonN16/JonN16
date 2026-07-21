@@ -3,26 +3,21 @@
 ### 🚀 About Me
 Computer Engineering student at **USP (University of São Paulo)**. Passionate about **Robotics**, **Artificial Intelligence**, and **Embedded Systems**.
 
-* 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com) <!-- Replace with your actual link or LinkedIn -->
+* 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com) <!-- Substitua pelo seu link ou LinkedIn -->
 * 📫 **Contact:** [your-email@usp.br](mailto:your-email@usp.br)
 
 ---
 
-### 🛠️ Tech Stack
+## Favorite Tech
 
-#### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Tools, languages, and other things that I like to work with.
 
-#### Web & Tools
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+| <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a> | <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a> | <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a> | <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a> | <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a> | <a href="https://www.canva.com"><img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" /></a> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **NodeJS** | **JavaScript** | **React** | **Python** | **C** | **C++** | **Canva** |
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radial)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radial)
