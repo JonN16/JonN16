@@ -25,5 +25,5 @@ Computer Engineering student at **USP (University of São Paulo)**. Passionate a
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radial)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonN16&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonN16&layout=compact&theme=radial)
