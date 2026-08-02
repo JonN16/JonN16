@@ -23,6 +23,6 @@ Computer Engineering student at **USP (University of São Paulo)**. Passionate a
 | **HTML5** | **CSS3** | **Bootstrap** | **NodeJS** | **React Native** |
 
 ### Databases, Hardware & Tools
-| <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a> | <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a> | <a href="https://gamemaker.io"><img src="https://skillicons.dev/icons?i=gamemaker" width="48" height="48" alt="GameMaker" /></a> | <a href="https://www.canva.com"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="48" alt="Canva" /></a> |
+| <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a> | <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a> | <a href="https://gamemaker.io"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gamemaker.svg" width="48" height="48" alt="GameMaker" /></a> | <a href="https://www.canva.com"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="48" alt="Canva" /></a> |
 | :---: | :---: | :---: | :---: |
 | **MySQL** | **Arduino** | **GameMaker** | **Canva** |
